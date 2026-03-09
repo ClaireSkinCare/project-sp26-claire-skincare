@@ -25,10 +25,17 @@ Claire is an AI-powered app that allows users to get help with skincare fast. Ju
 
 | Name | Role | Email | GitHub |
 |------|------|-------|--------|
-| [Lead Name] | Project Lead & [Primary Role] | [email@university.edu] | [@github-username](https://github.com/username) |
-| [Member Name 2] | [Role] | [email@university.edu] | [@github-username](https://github.com/username) |
-| [Member Name 3] | [Role] | [email@university.edu] | [@github-username](https://github.com/username) |
-| [Member Name 4] | [Role] | [email@university.edu] | [@github-username](https://github.com/username) |
+| Rishit Srinivas | Project Lead & DevOps | rishit.srinivas@sjsu.edu | [@RishitSrinivas](https://github.com/RishitSrinivas) |
+| Volodymyr Surin | Frontend Lead | email@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Derek Wang | Data Lead | email@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Stephanie Ng | Backend Lead | email@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Sahas Divi | AI/ML Lead | email@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Jeet Vyas | CV + Backend | jeet.vyas@sjsu.edu | [@github-suername](https://github.com/github-suername) |
+| Sharif Ahnaf Al Qaabi | CV + DevOps | sharif.alqaabi@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Evie Ho | Frontend | evie.ho@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Cahide Tuncer | Backend | cahide.tuncer@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Gabriella Susanteo | Data | gabriella.susanteo@sjsu.edu | [@github-username](https://github.com/github-username) |
+| Mihir Shaik | Data | mihir.shaik@sjsu.edu | [@github-username](https://github.com/github-username) |
 
 ## Project Kanban Board
 

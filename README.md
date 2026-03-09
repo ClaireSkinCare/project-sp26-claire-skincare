@@ -1,29 +1,23 @@
-# AI/ML Club - [Project Title]
+# AI/ML Club - Claire
 
-**Academic Year:** 2025-2026 Fall Semester  
-**Project Duration:** September 2025 - December 2025
+**Academic Year:** 2025-2026 Spring Semester  
+**Project Duration:** February 2026 - May 2026
 
 ## Project Description
 
-[Brief description of your project - 2-3 sentences explaining what the project aims to accomplish and its main objectives.]
+Claire is an AI-powered app that allows users to get help with skincare fast. Just snap a picture, get reccomendations, and track progress over time. 
 
 **Key Objectives:**
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
-- [Objective 4]
+- Publish MVP with another LLM model
+- Build and train Claire's own CV model
+- Utilize RAG, Computer Vision, Vector DB, etc.
 
 ## Lead Contact Information
 
-**Project Lead:** [Lead Name]  
-📧 Email: [email@university.edu]  
-💼 LinkedIn: [LinkedIn Profile URL]  
-📱 Phone: [Phone Number]  
-🏢 Office Hours: [Days and Times], [Location]
-
-**Faculty Advisor:** [Advisor Name]  
-📧 Email: [advisor.email@university.edu]  
-🏢 Office: [Building Name, Room Number]
+**Project Lead:** Rishit Srinivas
+📧 Email: rishit.srinivas@sjsu.edu  
+💼 LinkedIn: linkedin.com/in/rishit-srinivas/  
+📱 Phone: (925)237-0259
 
 ## Contributors
 
@@ -38,7 +32,7 @@
 
 ## Project Kanban Board
 
-**🔗 Public Board:** [View our Kanban Board](https://github.com/aiml-club/[repo-name]/projects/1)
+**🔗 Public Board:** [[View our Kanban Board](https://linear.app/claireskincare/team/CLA/all)]
 
 ## Repository Structure
 
@@ -52,7 +46,7 @@
 │   ├── members.csv             # Team member details with LinkedIn & Discord
 │   ├── info.json               # Project metadata for website automation
 │   ├── thumbnail.webp          # Project thumbnail image
-│   └── pitch_slides.pdf        # Project presentation slides
+│   └── Claire.pdf              # Project presentation slides
 └── [additional_folder]/
 ```
 
@@ -90,28 +84,22 @@
 
 ## Technology Stack
 
-- **Programming Language:** [Primary Language]
-- **ML/AI Libraries:** [Library 1], [Library 2], [Library 3]
-- **Development:** [Development Tools]
+- **Programming Language:** Python
+- **ML/AI Libraries:** 
+- **Development:** VSCode,
 - **Version Control:** Git & GitHub
-- **[Category]:** [Tools/Technologies]
-- **Database:** [Database Technology]
-- **Deployment:** [Deployment Platform/Tools]
+- **[Category]:** Computer Vision, RAG
+- **Database:** Postgres, pgvector
+- **Deployment:** Docker
 
-## License
-
-This project is licensed under the [License Type] License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- [Acknowledgment 1]
-- [Acknowledgment 2]
-- [Acknowledgment 3]
+- Praise god
 
 ---
 
-**Last Updated:** [Date]  
-**Next Review:** [Date]
+**Last Updated:** 3/8/2026
 
 ---
 
